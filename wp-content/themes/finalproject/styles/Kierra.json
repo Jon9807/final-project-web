@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+    "version": 1.0,
+    "title": "Kierra",
+    "settings":{
+        "color":{
+            "palette": [
+                { "name": "Primary", "slug": "primary", "color": "#354O24" },
+                { "name": "Accent", "slug": "accent", "color": "#CFBB99" },
+                { "name": "Secondary", "slug": "secondary", "color": "#889063" },
+                { "name": "Background", "slug": "background", "color": "#E5D7C4" },
+                { "name": "Text", "slug": "text", "color": "#4C3D19" }
+
+            ]
+        }
+    }
+
+}
