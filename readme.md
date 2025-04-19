@@ -1,25 +1,30 @@
 # The Flash
 
-# Project Summary
-Our site is on Norse mythology. It covers the chief gods such as Odin, Thor, and Freyja, retells the principal myths, and explains cultural elements such as symbols and rituals. Each section is arranged in a manner that visitors can simply browse through the various aspects of Norse culture.
-We chose this topic because Norse mythology continues to affect literature, film, and video games even today. It's an interesting subject, and we wanted to put together a website that lays the information out in a readable way and makes it available to everyone who is a fan of the ancient stories.
+## Project Summary
 
-### Live Link
+Our site is on Norse mythology, which is under Mythology / Folklore. It covers the chief gods such as Odin, Thor, and Freyja, retells the principal myths, and explains cultural elements such as symbols and rituals. Each section is arranged in a manner that visitors can simply browse through the various aspects of Norse culture. The content relates to the category through its focus on mythic figures that are central to Norse folklore and cultural identity.
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)  
+## Key Takeaways
+The theme structure we learn in class helps us organize each page of the site. Blocks make it easy to add and arrange content, especially for displaying the different Norse gods. Widgets help us add extra content like images or navigation. These tools keep the site consistent and easy to update.
 
-### Key Takeaways
 
-Understanding of why we are doing this project
+## Core Templates
 
-### Core Webpages
+  - List templates
+  - Briefly tell what they're used for
+  - List templates
+  - Briefly tell what they're used for
+  - List templates
+  - Briefly tell what they're used for
 
-List core webpages and briefly describe the page of them
+## Design Choices
 
-### Design Choices 
+Describe style variant differences
 
-List any websites that you might reference to influence your styling choices. List any colors used and what they were used for.
+| Variant | Element / Block | Change          | Rationale          |
+| ------- | --------------- | --------------- | ------------------ |
+| Name    | Color           | Description     | Why                |
 
-### Members & Responsibilities
+## Members & Responsibilities
 
-List all members, their roles, and their scenario titles
+Who did what?
