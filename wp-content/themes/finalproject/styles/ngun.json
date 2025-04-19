@@ -1,0 +1,44 @@
+{
+    "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+    "version": 3,
+    "title": "Kierra",
+    "settings": {
+      "color": {
+        "palette": [
+          { "name": "Purple",     "slug": "purple",      "color": "#3E328C" },
+          { "name": "Deep Navy",   "slug": "deep-navy",   "color": "#010326" },
+          { "name": "Almost Black","slug": "almost-black","color": "#00010D" },
+          { "name": "Charcoal",    "slug": "charcoal",    "color": "#212640" },
+          { "name": "Sand",        "slug": "sand",        "color": "#BF9B7A" }
+        ]
+      },
+      "layout": {
+        "contentSize": "800px",
+        "wideSize": "1200px"
+      },
+      "typography": {
+        "fontFamilies": [
+          {
+            "fontFamily": "Cinzel, serif",
+            "name": "Cinzel",
+            "slug": "cinzel"
+          },
+          {
+            "fontFamily": "Merriweather, serif",
+            "name": "Merriweather",
+            "slug": "merriweather"
+          }
+        ]
+      }
+    },
+    "styles": {
+      "color": {
+        "background": "var:preset|color|background",
+        "text": "var:preset|color|text"
+      },
+      "typography": {
+        "fontFamily": "var:preset|font-family|merriweather"
+      }
+    }
+  }
+  

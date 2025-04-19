@@ -1,16 +1,25 @@
 # The Flash
 
 # Project Summary
-Describe what the project is about and the main features.
+Our site is on Norse mythology. It covers the chief gods such as Odin, Thor, and Freyja, retells the principal myths, and explains cultural elements such as symbols and rituals. Each section is arranged in a manner that visitors can simply browse through the various aspects of Norse culture.
+We chose this topic because Norse mythology continues to affect literature, film, and video games even today. It's an interesting subject, and we wanted to put together a website that lays the information out in a readable way and makes it available to everyone who is a fan of the ancient stories.
 
-# Key Takeaways
-Describe what your group learned from this experience.
+### Live Link
 
-# Core Files / Endpoints
-List and give a brief description of the core files and endpoints used in the app. This should not include helper files.
+[Blog Page](https://{username}.github.io/{reponame}/homework-2)  
 
-# Design Choices
-Describe how the user interacts with your system/app and why you chose that layout.
+### Key Takeaways
 
-# Members & Responsibilities
-List each member and what portions of the system/features they were responsible for.
+Understanding of why we are doing this project
+
+### Core Webpages
+
+List core webpages and briefly describe the page of them
+
+### Design Choices 
+
+List any websites that you might reference to influence your styling choices. List any colors used and what they were used for.
+
+### Members & Responsibilities
+
+List all members, their roles, and their scenario titles
