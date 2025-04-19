@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+    "version": 3,
+    "title": "Kierra",
+    "settings":{
+        "color":{
+            "palette": [
+                { "name": "Primary", "slug": "primary", "color": "#354024" },
+                { "name": "Accent", "slug": "accent", "color": "#CFBB99" },
+                { "name": "Secondary", "slug": "secondary", "color": "#889063" },
+                { "name": "Background", "slug": "background", "color": "#E5D7C4" },
+                { "name": "Text", "slug": "text", "color": "#4C3D19" }
+
+            ]
+        },
+        "layout": {
+            "contentSize": "800px",
+            "wideSize": "1200px"
+        },
+        "typography": {
+            "fontFamilies": [
+                {
+                    "fontFamily": "Cinzel, serif",
+                    "name": "Cinzel",
+                    "slug": "cinzel"
+                },
+                {
+                    "fontFamily": "Merriweather, serif",
+                    "name": "Merriweather",
+                    "slug": "merriweather"
+                }
+            ]
+        }
+    },
+    "styles":{
+        "color": {
+            "background": "var:preset|color|background",
+            "text": "var:preset|color|text"
+        },
+     
+         "typography": {
+            "fontFamily": "var:preset|font-family|merriweather"
+            }
+        }
+    }
