@@ -10,24 +10,24 @@ The theme structure we learn in class helps us organize each page of the site. B
 
 ## Core Templates
 
-  - front-page.html
-  - The main homepage of the site. It introduces the the themes and guides visitors to explore Norse mythology content.
-  - index.html
-  - The fallback template that displays general content when no specific template matches.
-  - 404.html
-  - Custom error page shown when a user visits a non-existent page.
-  - page-list-god.html
-  - Displays a list of Norse gods. Acts as a directory to browse different mythological figures.
-  - single-god.html
-  - Shows detailed information about an individaul Norse god, including their backgroud and associated myths.
-  - page-list-books.html
-  - Presents a curated list of books related to Norse mythology for further reading.
-  - page-book.html
-  - Used to show details about a specific book. 
-  - single.html
-  - Template used for indvidual blog posts.
-  - page-blog.html
-  - Displays a list of recent blog posts.
+  - front-page.html:
+    The main homepage of the site. It introduces the the themes and guides visitors to explore Norse mythology content.
+  - index.html:
+    The fallback template that displays general content when no specific template matches.
+  - 404.html:
+    Custom error page shown when a user visits a non-existent page.
+  - page-list-god.html:
+    Displays a list of Norse gods. Acts as a directory to browse different mythological figures.
+  - single-god.html:
+    Shows detailed information about an individaul Norse god, including their backgroud and associated myths.
+  - page-list-books.html:
+    Presents a curated list of books related to Norse mythology for further reading.
+  - page-book.html:
+     Used to show details about a specific book. 
+  - single.html:
+    Template used for indvidual blog posts.
+  - page-blog.html:
+   Displays a list of recent blog posts.
 
 
 ## Design Choices
