@@ -26,7 +26,7 @@ The theme structure we learn in class helps us organize each page of the site. B
      Used to show details about a specific book. 
   - single.html:
     Template used for indvidual blog posts.
-  - page-blog.html:
+  - home.html:
    Displays a list of recent blog posts.
 
 
