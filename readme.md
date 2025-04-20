@@ -39,8 +39,9 @@ Describe style variant differences
 | Main    | Color / Typography          | Warm neutral palete with Burnt Sienna, Ivory Sand, and Lora/Cormonant Garamond fonts.    | Designed for readability and  professional while keeping a mythic, ancient  feel.           |
 | Kierra   | Color / Typography              | Earthy tones (Sage Green,Tan) with Cinzel and Merriweather fonts.   | Inspired by nature and scroll-like-texture evokes ancient stories and calm elegance.             |
 | Ngun   | Color / Typography             | Deep purples and navy with Cinzel and Merriweather fonts.    |    Bold and dark, adds drama and mystery to fit more seious tone of Norse legend     |
-| Mitch   | Color / Typography             | Description     | Why                |
+| Mitch   | Color / Typography             | Di Serria (#e09c60) and Mine Shaft (#3c3737)| These colors create a warm but bold tone that reflects Norse mythology.|
 
-## Members & Responsibilities
-
-Who did what?
+## Members & Responsibilities. Who did what?
+- Ngun (President): Submitted all final documentation materials. Wrote the Project Summary and Key Takeaways sections, tying the content to the course themes of mythology and folklore.
+- Kierra (Architect): Structured the site’s layout and design using WordPress. Wrote the Core Templates and Design Choices sections, helping establish a visual direction based on Norse mythology.
+- Mitch (Scrum Master): Coordinated group communication and task management. Made sure team members were on track with their sections and wrote the Members & Responsibilities portion of the documentation. 
