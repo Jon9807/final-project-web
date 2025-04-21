@@ -5,8 +5,8 @@
     "settings":{
         "color":{
             "palette": [
-                { "name": "Primary", "slug": "primary", "color": "#354024" },
-                { "name": "Accent", "slug": "accent", "color": "#CFBB99" },
+                { "name": "Primary", "slug": "primary", "color": "#e09c60" },
+                { "name": "Accent", "slug": "accent", "color": "#3c3737" },
                 { "name": "Secondary", "slug": "secondary", "color": "#889063" },
                 { "name": "Background", "slug": "background", "color": "#E5D7C4" },
                 { "name": "Text", "slug": "text", "color": "#4C3D19" }
