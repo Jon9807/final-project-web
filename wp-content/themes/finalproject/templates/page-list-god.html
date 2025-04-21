@@ -1,0 +1,35 @@
+<!-- wp:template-part {"slug":"nav"} /-->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Meet the Norse Gods</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Discover powerful gods, cunning tricksters, and wise queens, all from Norse mythology.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:query {"query": {"postType": "post", "orderBy": "date", "order": "desc", "perPage": 6, "categoryName": "gods"}} -->
+    <!-- wp:post-template {"layout":{"type":"grid","columnCount":3}} -->
+        <!-- wp:group {"layout":{"type":"constrained"}} -->
+        <div class="wp-block-group">
+            <!-- wp:post-featured-image {"isLink":true} /-->
+
+            <!-- wp:post-title {"isLink":true} /-->
+
+            <!-- wp:post-excerpt {"moreText":"Read More"} /-->
+        </div>
+        <!-- /wp:group -->
+    <!-- /wp:post-template -->
+
+    <!-- wp:query-pagination -->
+        <!-- wp:query-pagination-previous /-->
+        <!-- wp:query-pagination-numbers /-->
+        <!-- wp:query-pagination-next /-->
+    <!-- /wp:query-pagination -->
+
+    <!-- wp:query-no-results -->
+        <!-- wp:paragraph -->
+        <p>No gods found in this realm. Please check back later.</p>
+        <!-- /wp:paragraph -->
+    <!-- /wp:query-no-results -->
+<!-- /wp:query -->
