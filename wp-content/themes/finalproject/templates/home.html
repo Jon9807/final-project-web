@@ -5,29 +5,29 @@
 <!-- /wp:heading -->
 
 <!-- wp:query {"query": {"postType": "post", "orderBy": "date", "order": "desc", "perPage": 2, "taxQuery": {"category": [1,5]}}} -->
+	<!-- wp:post-template -->
+		<!-- wp:post-title {"level": 2, "isLink": true} /-->
+		<!-- wp:post-excerpt /-->
 
-<!-- wp:post-template -->
-<!-- wp:post-title {"level": 2, "isLink": true} /-->
-<!-- wp:post-excerpt /-->
+		<!-- wp:group {"layout": {"type": "flex", "flexWrap": "nowrap"}} -->
+		<div class="wp-block-group">
+			<!-- wp:post-author-name /-->
+			<!-- wp:post-date /-->
+		</div>
+		<!-- /wp:group -->
+	<!-- /wp:post-template -->
 
-<!-- wp:group {"layout": {"type": "flex", "flexWrap": "nowrap"}} -->
-<div class="wp-block-group">
-	<!-- wp:post-author-name /-->
-	<!-- wp:post-date /-->
-</div>
-<!-- /wp:group -->
-<!-- /wp:post-template -->
+	<!-- wp:query-pagination -->
+		<!-- wp:query-pagination-previous /-->
+		<!-- wp:query-pagination-numbers /-->
+		<!-- wp:query-pagination-next /-->
+	<!-- /wp:query-pagination -->
 
-<!-- wp:query-pagination -->
-<!-- wp:query-pagination-previous /-->
-<!-- wp:query-pagination-numbers /-->
-<!-- wp:query-pagination-next /-->
-<!-- /wp:query-pagination -->
-
-<!-- wp:query-no-results -->
-<!-- wp:paragraph -->
-<p>Sorry, having issues retrieving the blogs. Try again later.</p>
-<!-- /wp:paragraph -->
-<!-- /wp:query-no-results -->
-
+	<!-- wp:query-no-results -->
+		<!-- wp:paragraph -->
+		<p>Sorry, having issues retrieving the blogs. Try again later.</p>
+		<!-- /wp:paragraph -->
+	<!-- /wp:query-no-results -->
 <!-- /wp:query -->
+
+<!-- wp:template-part {"slug":"footer"} /-->
