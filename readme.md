@@ -42,6 +42,6 @@ Describe style variant differences
 | Mitch   | Color / Typography             | Di Serria (#e09c60) and Mine Shaft (#3c3737)| These colors create a warm but bold tone that reflects Norse mythology.|
 
 ## Members & Responsibilities. Who did what?
-- Ngun (President): Submitted all final documentation materials. Wrote the Project Summary and Key Takeaways sections, tying the content to the course themes of mythology and folklore.
-- Kierra (Architect): Structured the site’s layout and design using WordPress. Wrote the Core Templates and Design Choices sections, helping establish a visual direction based on Norse mythology.
-- Mitch (Scrum Master): Coordinated group communication and task management. Made sure team members were on track with their sections and wrote the Members & Responsibilities portion of the documentation. 
+- Ngun (President): Submitted all final documentation materials. Wrote the Project Summary and Key Takeaways sections, tying the content to the course themes of mythology and folklore.  Did the list of books, single books, and index.
+- Kierra (Architect): Structured the site’s layout and design using WordPress. Wrote the Core Templates and Design Choices sections, helping establish a visual direction based on Norse mythology. Did the front page, list of gods, and single gods, contact page, and newsletter page,
+- Mitch (Scrum Master): Coordinated group communication and task management. Made sure team members were on track with their sections and wrote the Members & Responsibilities portion of the documentation. Completed the blog list, single blog, and 404 page.
