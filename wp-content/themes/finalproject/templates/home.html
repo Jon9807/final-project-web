@@ -1,6 +1,14 @@
 <!-- wp:template-part {"slug":"nav"} /-->
 
-<!-- wp:post-title {"level": 1} /-->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Our Blog</h1>
+<!-- /wp:heading -->
+
+<!-- wp:query {"query": {"postType": "post", "orderBy": "date", "order": "desc", "perPage": 2, "taxQuery": {"category": [1,5]}}} -->
+
+<!-- wp:post-template -->
+<!-- wp:post-title {"level": 2, "isLink": true} /-->
+<!-- wp:post-excerpt /-->
 
 <!-- wp:group {"layout": {"type": "flex", "flexWrap": "nowrap"}} -->
 <div class="wp-block-group">
@@ -8,36 +16,18 @@
 	<!-- wp:post-date /-->
 </div>
 <!-- /wp:group -->
+<!-- /wp:post-template -->
 
-<!-- wp:post-featured-image /-->
+<!-- wp:query-pagination -->
+<!-- wp:query-pagination-previous /-->
+<!-- wp:query-pagination-numbers /-->
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination -->
 
-<!-- wp:post-content /-->
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, having issues retrieving the blogs. Try again later.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
 
-<!-- wp:comments -->
-<div class="wp-block-comments">
-	<!-- wp:comments-title /-->
-
-	<!-- wp:comment-template -->
-
-	<!-- wp:avatar /-->
-	<!-- wp:comment-author-name /-->
-
-	<!-- wp:comment-content /-->
-
-	<!-- wp:comment-date /-->
-
-	<!-- wp:comment-reply-link /-->
-
-	<!-- /wp:comment-template -->
-
-	<!-- wp:comments-pagination -->
-	<!-- wp:comments-pagination-previous /-->
-
-	<!-- wp:comments-pagination-numbers /-->
-
-	<!-- wp:comments-pagination-next /-->
-	<!-- /wp:comments-pagination -->
-
-	<!-- wp:post-comments-form /-->
-</div>
-<!-- /wp:comments -->
+<!-- /wp:query -->
